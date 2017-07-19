@@ -27,25 +27,15 @@ HenCoder 绘制 1 练习项目
 
 ### 练习完成效果
 <img src="images/drawColor.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawCircle.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawRect.png" width="300" height="500"/>
-<br>
 <img src="images/drawPoint.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawOval.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawLine.png" width="300" height="500"/>
-<br>
 <img src="images/drawRoundRect.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawArc.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawPath.png" width="300" height="500"/>
-<br>
 <img src="images/drawHistogram.png" width="300" height="500"/>
-&nbsp;
 <img src="images/drawPie.png" width="300" height="500"/>
 
 ### 关于有些方法无效
